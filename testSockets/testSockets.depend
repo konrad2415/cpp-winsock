@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599888743 source:c:\software\xampp\htdocs\cssworking\testgithub\cpp-winsock\testsockets\main.cpp
+	<stdio.h>
+	<winsock2.h>
+
